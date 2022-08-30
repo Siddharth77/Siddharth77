@@ -2,4 +2,3 @@
 - 👀 I’m interested in JavaScript, (as I don't know JavaScript✨ by Kyle, inspiration like Douglas crockford etc.) and work on it's related framework, library i.e. Angular and React respectively.
 - 🌱 I’m currently learning React, ES6 and Redux as I'm looking to switch from Angular. 
 - 💞️ I’m looking to collaborate on current projects which can bring change in way of transforming UI development.
-- 📫 How to reach me, you can react out to me via email(jainnsidhearth77@gmail.com),twitter(@SpeaksSidJ). (Note: No spam, please) 
