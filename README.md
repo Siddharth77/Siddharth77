@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Siddharth Jain with GitHub-Id @Siddharth77
-- 👀 I’m interested in JavaScript, (as I don't know JavaScript✨ by Kyle, inspiration like Douglas crockford etc.) and work on it's related framework, library i.e. Angular and React respectively.
-- 🌱 I’m currently learning React, ES6 and Redux as I'm looking to switch from Angular. 
-- 💞️ I’m looking to collaborate on current projects which can bring change in way of transforming UI development.
+👋 Hello, I'm Siddharth Jain, and my GitHub ID is @Siddharth77. I have a keen interest in JavaScript, drawing inspiration from experts like Kyle Simpson and Douglas Crockford (whose work on JavaScript is truly enlightening!). I actively work with JavaScript frameworks and libraries, particularly Angular and React.
+
+🌱 Currently, I'm focused on expanding my knowledge in React, ES6, and Redux. My goal is to transition from Angular to React, as I believe it offers exciting opportunities for UI development.
+
+💞️ I'm eager to collaborate on projects that aim to revolutionize the way we approach UI development. If you have any ongoing projects that can bring about a positive transformation in this area, I'd be thrilled to contribute and work together.
